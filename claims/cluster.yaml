@@ -1,0 +1,11 @@
+apiVersion: platformref.crossplane.io/v1alpha1
+kind: Cluster
+metadata:
+  name: platform-ref-aws-nate
+spec:
+  id: platform-ref-aws-nate
+  parameters:
+    nodes:
+      count: 1
+      size: small
+  cloud: aws
