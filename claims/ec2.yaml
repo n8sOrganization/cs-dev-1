@@ -1,3 +1,4 @@
+apiVersion: se.upbound.io/v1alpha1
 kind: XEC2Instance
 metadata:
   name: freddie-mac-demo
