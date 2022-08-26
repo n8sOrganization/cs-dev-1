@@ -5,4 +5,4 @@ metadata:
 spec:
   id: freddie-mac-demo-ec2-1
   region: us-west-2
-  vpc: platform-ref-aws-nate
+  vpc: freddie-mac-demo
