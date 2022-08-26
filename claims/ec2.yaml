@@ -1,0 +1,7 @@
+kind: XEC2Instance
+metadata:
+  name: freddie-mac-demo
+spec:
+  id: freddie-mac-demo-ec2-1
+  region: us-west-2
+  vpc: freddie-mac-demo
